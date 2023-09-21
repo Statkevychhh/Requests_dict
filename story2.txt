@@ -1,0 +1,566 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+    <meta charset="windows-1251">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.ukrlib.com.ua/books/printit.php?tid=752" />
+    <title>Мені тринадцятий минало... — Тарас Шевченко, читати повністю текст твору онлайн. УкрЛіб : Українська Бібліотека</title>
+    <meta name="description" content="Читати повний текст &quot;Мені тринадцятий минало...&quot; (автор: Шевченко Тарас Григорович). Читати повністю електронну книгу Тарас Шевченко — Мені тринадцятий минало... онлайн в Бібліотеці української літератури УкрЛіб">
+    <meta property="og:image" content="/books/images/shevchenko-taras-meni-trynadtsiatyy-mynalo752.png">
+    <meta property="og:title" content="Мені тринадцятий минало... — Тарас Шевченко, повний текст твору">
+    <meta property="og:description" content="Читати повний текст &quot;Мені тринадцятий минало...&quot; (автор: Шевченко Тарас Григорович). Читати повністю електронну книгу Тарас Шевченко — Мені тринадцятий минало... онлайн в Бібліотеці української літератури УкрЛіб">    
+    <link rel="stylesheet" href="/css/1.1/style.min.css">
+    <link rel="stylesheet" href="/css/1.1/socials.min.css?v=123">
+    <link rel="stylesheet" href="/css/1.1/bannerstyle.min.css">
+                    <style>
+.verse h2,.verse h3,.prose h2,.prose h3 {
+    margin:20px auto 5px;
+    text-align:center;
+}
+.rmarker{
+    color:#737373;
+}                 
+                    
+                    
+                .copybook {
+                    border:5px solid #ba0e0e;
+                    margin:20px;
+                    padding:20px;
+                    font-family: 'Roboto Slab',serif;
+                }
+.mcb-but{
+    border: none;
+    text-align:center;
+    display:block;
+    height:41px;
+    padding: 0px 35px;
+    font-size:16px;
+    font-weight:600;
+    background:#ba0e0e;
+    letter-spacing:1px;
+    color:#FFFFFF;
+    font-family:"Roboto Slab",serif;
+    border-radius: 5px;
+    box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.2);
+    cursor:pointer !important;
+    margin: 20px auto 20px;
+}
+.mcb-upper{
+    text-transform: uppercase;
+}
+.mcb-but:hover {
+    box-shadow:none;
+    color:#FFFFFF;
+}
+.mcb-but:active {
+    box-shadow: 0px 5px 5px -5px rgba(0,0,0,1) inset;
+}
+.maincaption {
+    border-bottom: 2px solid #ac0707;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+.ytvideo{overflow:hidden;position:relative;padding-bottom:56.25%;height:0;display:block}
+.ytvideo iframe,object,embed{position:absolute;width:100%;height:100%;left:0;top:0;max-height:480px}
+.movie-fixed{max-height:480px;max-width:640px;margin:20px auto}
+   
+@media (max-width: 767px) {
+.ytvideo{overflow:hidden;position:relative;padding-bottom:56.25%;height:0;display:block}
+.ytvideo iframe,object,embed{position:absolute;width:100%;height:100%;left:0;top:0;max-height:300px}
+.movie-fixed{max-height:300px;max-width:500px;margin:20px auto}
+}
+                </style>
+    <!--[if lt IE 9]>
+        <script src="/js/html5.js"></script>
+        <script src="/js/respond.js"></script>
+    <![endif]-->
+        <script src="/js/1.1/jquery-1.12.0.min.js"></script>
+    <script src="/js/1.1/library.js"></script>
+    <script src="/js/1.1/script.js?v=210319"></script>    
+    <script src="/js/1.1/jquery.mmenu.min.js"></script>
+    <script src="/js/1.1/jquery.mmenu.navbars.min.js"></script>
+    <!--    <link rel="stylesheet" href="/css/1.1/style.min.css?v=280121"/> -->
+    <link rel="stylesheet" href="/css/1.1/jquery.mmenu.css"/>
+    <link rel="stylesheet" href="/css/1.1/jquery.mmenu.borderstyle.css"/>
+    <link rel="stylesheet" href="/css/1.1/jquery.mmenu.navbars.css"/>
+    <link rel="stylesheet" href="/css/1.1/jquery.mmenu.pagedim.css"/>
+
+
+<script>
+function clicks(divID){
+div = document.getElementById(divID).style
+if(div.display == 'block') {
+div.display = 'none'
+}else{
+div.display = 'block'
+}
+}
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-19894663-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-19894663-1');
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4044380294269646",
+    enable_page_level_ads: true
+  });
+</script>
+
+
+<link rel="apple-touch-icon" sizes="32x32" href="/images/touch/fav_ukrl_32.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/images/touch/fav_ukrl_76.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/images/touch/fav_ukrl_120.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/images/touch/fav_ukrl_152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/images/touch/fav_ukrl_180.png" />
+<link rel="icon" sizes="196x196" href="/images/touch/fav_ukrl_196.png" />
+<link rel="icon" sizes="32x32" href="/images/touch/fav_ukrl_32.png" />
+<meta name="msapplication-square70x70logo" content="/images/touch/fav_ukrl_70.png" />
+<meta name="msapplication-square150x150logo" content="/images/touch/fav_ukrl_150.png" />
+<meta name="msapplication-wide310x150logo" content="/images/touch/fav_ukrl_310-150.png" />
+<meta name="msapplication-square310x310logo" content="/images/touch/fav_ukr_310.png" />    	
+</head>
+<body class="no-js menu-second">
+        <div class="main">
+        <div class="wrap">
+                        <header>
+                <div class="top-links">
+                    <a href="/mail.php">Контакти</a>
+                    <a href="/ad/">Реклама</a>
+                    <a href="https://meteo.ua/ua" target="_blank">Погода</a>
+                </div><!-- /.top-links -->
+                <div class="clear"></div>
+                <div class="logo">
+                    <span class="retina"></span>
+                    Бібліотека<br>Української<br>Літератури
+                    <a href="/"></a>
+                </div><!-- /.logo -->
+                <a href="#mobile-menu" class="mobile-menu"></a>                <form action="/search.php" class="search" id="cse-search-box" accept-charset="utf-8">
+                    <input type="text" name="Q" class="input-text" />
+                    <input type="submit" class="search-button retina" value="search"/>
+                </form>
+                <div class="social">
+                    <a href="https://www.youtube.com/ukrlib?sub_confirmation=1" class="yt retina" ></a>
+                    <a href="https://t.me/ukrlib_ua" class="tlg retina" ></a>  
+                    <a href="https://www.facebook.com/UkrLib" class="face retina"></a>  
+                    <a href="https://www.instagram.com/ukrlib.com.ua/" class="insta retina" ></a>
+                </div><!-- /.social -->
+                <div class="clear"></div>
+                                <nav class="menu menu-first-item ">
+                    <ul>
+                        
+                        <li class="current"><a href="#ddm1" class="active">Українська література<span></span></a></li>
+                        <li ><a href="#ddm2" >Зарубіжна література<span></span></a></li>
+                        <li ><a href="#ddm3" >Навчання<span></span></a></li>
+                        <li ><a href="#ddm4" >Літературознавство<span></span></a></li>
+                        <li ><a href="#ddm5" >Іншими мовами<span></span></a></li>
+                    </ul>                      
+                </nav>
+                                <nav id="mobile-menu">
+                    <ul>
+                        <li><span>Українська література</span>
+                                <ul>
+                                    <li class="mm-multiline Selected"><a href="/books/">Бібліотека</a><span style="margin-left:10px;"><a style='color:rgba(0,0,0,0.7)' href="author.php?id=1">Шевченко Тарас</a></span><span style="margin-left:20px;"><a style='color:#ad0707' href="printit.php?tid=752">Мені тринадцятий минало...</a></span></li>
+                                    <li ><a href="/audio/">Аудіокниги</a></li>
+                                    <li ><a href="/bio/">Біографії</a></li>
+                                    <li>
+                                        <span>Шкільна програма</span>
+                                            <ul>
+                                                <li ><a href="/school/?klas=5">5 клас</a></li>
+                                                <li ><a href="/school/?klas=6">6 клас</a></li>
+                                                <li ><a href="/school/?klas=7">7 клас</a></li>
+                                                <li ><a href="/school/?klas=8">8 клас</a></li>
+                                                <li ><a href="/school/?klas=9">9 клас</a></li>
+                                                <li ><a href="/school/?klas=10">10 клас</a></li>
+                                                <li ><a href="/school/?klas=11">11 клас</a></li>
+                                            </ul>              
+                                    </li>
+                                    <li ><a href="/narod/">Народна творчість</a></li>
+                                    <li ><a href="/suchasna/">Сучасна література</a></li>
+                                    
+                                </ul>
+                        </li>
+                        <li><span>Зарубіжна література</span>
+                            <ul>
+									<li ><a href="/world/">Бібліотека</a></li>
+                                    <li ><a href="/audio-zl/">Аудіокниги</a></li>
+									<li ><a href="/bio-zl">Біографії</a></li>
+                                    <li>
+                                        <span>Шкільна програма</span>
+                                            <ul>
+                                                <li ><a href="/school-zl/?klas=5">5 клас</a></li>
+                                                <li ><a href="/school-zl/?klas=6">6 клас</a></li>
+                                                <li ><a href="/school-zl/?klas=7">7 клас</a></li>
+                                                <li ><a href="/school-zl/?klas=8">8 клас</a></li>
+                                                <li ><a href="/school-zl/?klas=9">9 клас</a></li>
+                                                <li ><a href="/school-zl/?klas=10">10 клас</a></li>
+                                                <li ><a href="/school-zl/?klas=11">11 клас</a></li>
+                                            </ul>              
+                                    </li>
+                            </ul>
+						</li>
+                        <li><span>Навчання</span>
+                                <ul>
+                                    <li>
+                                        <span>Шкільні твори</span>
+                                            <ul>
+                                                <li ><a href="/tvory/">Твори з української літератури</a></li>
+                                                <li ><a href="/tvory-zl/">Твори із зарубіжної літератури</a></li>
+                                                <li ><a href="/sochm/">Твори з мови</a></li>
+                                            </ul>              
+                                    </li>
+                                    <li>
+                                        <span>Стислі перекази</span>
+                                            <ul>
+                                                <li ><a href="/styslo/">Українська література скорочено</a></li>
+                                                <li ><a href="/styslo-zl/">Зарубіжна література скорочено</a></li>
+                                            </ul>              
+                                    </li>
+                                    <li>
+                                        <span>Аналіз творів</span>
+                                            <ul>
+                                                <li ><a href="/review/">Аналіз творів української літератури</a></li>
+                                                <li ><a href="/review-zl/">Аналіз творів зарубіжної літератури</a></li>
+                                            </ul>              
+                                    </li>
+                                    
+                                    <li ><a href="/zno/">ЗНО</a></li>
+                                                             
+                                    <li>
+                                        <span>Контрольні запитання</span>
+                                            <ul>
+                                                <li ><a href="/answers/">Запитання до української літератури</a></li>
+                                                <li ><a href="/answers-zl/">Запитання до зарубіжної літератури</a></li>
+                                            </ul>              
+                                    </li>
+                                    <li>
+                                        <span>Реферати</span>
+                                            <ul>
+                                                <li ><a href="/referats/">Реферати з української літератури</a></li>
+                                                <li ><a href="/referats-zl/">Реферати зі світової літератури</a></li>
+                                            </ul>              
+                                    </li>
+                                    <li ><a href="https://gdz4you.com">ГДЗ</a></li>
+                                </ul>                     
+                        </li>
+						<li>
+							<span>Літературознавство</span>
+                                <ul>
+									<li ><a href="/dic/">Літературна енциклопедія</a></li>									
+									<li ><a href="/quotes/">Крилаті вислови</a></li>    
+                                    <li ><a href="/krstat/">Критичні статті</a></li> 
+									<li ><a href="/pub/">Статті</a></li>
+								</ul>  
+						</li>
+						<li>
+                            <span>Іншими мовами</span>
+                                <ul>
+                                    <li>
+                                        <span>Краткие содержания</span>
+                                            <ul>
+                                                <li ><a href="/kratko-zl/">Все</a></li>
+												<li ><a href="/kratko-zl/?cat=2">Русская литература</a></li>  
+												<li ><a href="/kratko-zl/?cat=1">Зарубежная литература</a></li>  
+												<li ><a href="/kratko-zl/?cat=3">Литература античности и средневековья</a></li> 
+                                            </ul>              
+                                    </li>
+                                    <li>
+                                        <span>Сочинения</span>
+                                            <ul>
+												<li ><a href="/sochin-rus/">Русская литература</a></li>  
+												<li ><a href="/essay-rus/">Зарубежная литература</a></li>  
+												<li ><a href="/soch-rus/">На свободную тему</a></li> 
+                                            </ul>              
+                                    </li>
+
+                                </ul>             
+                        </li>
+                    </ul>                     
+                </nav>                <div class="separator"></div>
+            </header>
+        </div><!-- /.wrap -->
+        <div class="spanning">
+            <div class="wrap">
+                                <div class="menu-box-second-level">
+                    <ul id="ddm1" class="menu-item active">
+                        <li class="current"><a href="/books/">Бібліотека</a></li>
+                        <li ><a href="/audio/">Аудіокниги</a></li>
+                        <li ><a href="/bio/">Біографії</a></li>
+                        <li ><a href="#mis15">Шкільна програма</a></li>
+                        <li ><a href="/narod/">Народна творчість</a></li>
+                        <li ><a href="/suchasna/">Сучасна література</a></li>
+                    </ul>
+					<ul id="ddm2" class="menu-item ">
+                        <li ><a href="/world/">Бібліотека</a></li>
+                        <li ><a href="/audio-zl/">Аудіокниги</a></li>
+						<li ><a href="/bio-zl/">Біографії</a></li>
+                        <li ><a href="#mis25">Шкільна програма</a></li>
+                        <!-- <li ><a href="#" class="gray">Народна творчість</a></li> -->
+                        
+                    </ul>
+                    <ul id="ddm3" class="menu-item ">
+                        <li ><a href="#mis31">Шкільні твори</a></li>
+                        <li ><a href="#mis32">Стислі перекази</a></li>
+                        <li ><a href="#mis35">Аналіз творів</a></li>
+                        <li ><a href="/zno/">ЗНО</a></li>
+						<li ><a href="#mis34">Контрольні запитання</a></li> 
+                        <li ><a href="#mis33">Реферати</a></li>
+                        <li ><a href="https://gdz4you.com">ГДЗ</a></li>
+                        
+
+                    </ul>
+					<ul id="ddm4" class="menu-item ">
+                        <li ><a href="/dic/">Літературна енциклопедія</a></li>
+                        <li ><a href="/quotes/">Крилаті вислови</a></li> 
+                        <li ><a href="/krstat/">Критичні статті</a></li> 
+						<!--<li ><a href="#" class="gray">Конспекти уроків</a></li> -->
+                        <li ><a href="/pub/">Статті</a></li>
+                    </ul>
+					<ul id="ddm5" class="menu-item ">
+                        <li ><a href="#mis51">Краткие содержания</a></li>
+                        <li ><a href="#mis52">Сочинения</a></li>
+                    </ul>
+                </div><!-- /.menu-box-second-level -->
+                <div class="menu-box-third-level">
+                    <ul id="mis15" class="menu-item-second ">
+                        <li ><a href="/school/?klas=5">5 клас</a></li>  
+                        <li ><a href="/school/?klas=6">6 клас</a></li>  
+                        <li ><a href="/school/?klas=7">7 клас</a></li>
+                        <li ><a href="/school/?klas=8">8 клас</a></li>  
+                        <li ><a href="/school/?klas=9">9 клас</a></li>  
+                        <li ><a href="/school/?klas=10">10 клас</a></li>
+                        <li ><a href="/school/?klas=11">11 клас</a></li>   
+                    </ul>
+                    <ul id="mis25" class="menu-item-second ">
+                        <li ><a href="/school-zl/?klas=5">5 клас</a></li>  
+                        <li ><a href="/school-zl/?klas=6">6 клас</a></li>  
+                        <li ><a href="/school-zl/?klas=7">7 клас</a></li>
+                        <li ><a href="/school-zl/?klas=8">8 клас</a></li>  
+                        <li ><a href="/school-zl/?klas=9">9 клас</a></li>  
+                        <li ><a href="/school-zl/?klas=10">10 клас</a></li>
+                        <li ><a href="/school-zl/?klas=11">11 клас</a></li>   
+                    </ul>
+                    <ul id="mis31" class="menu-item-second ">
+                        <li ><a href="/tvory/">Твори з української літератури</a></li>  
+                        <li ><a href="/tvory-zl/">Твори із зарубіжної літератури</a></li>  
+                        <li ><a href="/sochm/">Твори з мови</a></li>  
+                    </ul>
+					<ul id="mis32" class="menu-item-second ">
+                        <li ><a href="/styslo/">Українська література скорочено</a></li>  
+                        <li ><a href="/styslo-zl/">Зарубіжна література скорочено</a></li>  
+                    </ul>
+					<ul id="mis33" class="menu-item-second ">
+                        <li ><a href="/referats/">Реферати з української літератури</a></li>  
+                        <li ><a href="/referats-zl/">Реферати зі світової літератури</a></li>  
+                    </ul>
+					<ul id="mis34" class="menu-item-second ">
+                        <li ><a href="/answers/">Запитання до української літератури</a></li>  
+                        <li ><a href="/answers-zl/">Запитання до зарубіжної літератури</a></li>  
+                    </ul>
+					<ul id="mis35" class="menu-item-second ">
+                        <li ><a href="/review/">Аналіз творів української літератури</a></li>  
+                        <li ><a href="/review-zl/">Аналіз творів зарубіжної літератури</a></li>  
+                    </ul>
+					
+					<ul id="mis43" class="menu-item-second ">
+                        <li ><a href="#" class="grey">Українська література</a></li>  
+                        <li ><a href="#" class="grey">Зарубіжна література</a></li>  
+                    </ul>
+					<ul id="mis51" class="menu-item-second ">
+                        <li ><a href="/kratko-zl/">Все</a></li>
+                        <li ><a href="/kratko-zl/?cat=2">Русская литература</a></li>  
+                        <li ><a href="/kratko-zl/?cat=1">Зарубежная литература</a></li>  
+                        <li ><a href="/kratko-zl/?cat=3">Литература античности и средневековья</a></li>  
+                    </ul>
+					<ul id="mis52" class="menu-item-second ">
+                        <li ><a href="/sochin-rus/">Русская литература</a></li>  
+                        <li ><a href="/essay-rus/">Зарубежная литература</a></li>  
+                        <li ><a href="/soch-rus/">На свободную тему</a></li>  
+                    </ul>
+                </div><!-- /.menu-box-third-level -->
+                <div class='container'><div class='floater'>
+                         <a href="javascript:void(0);" onclick="changeFontSize('content','1');" class="up" title="Збільшити текст"></a>
+                         <a href="javascript:void(0);" onclick="changeFontSize('content','-1');" class="down" title="Зменшити текст"></a>
+                         <span class="divide"></span>
+                         <a href="./printitzip.php?tid=752" class="download" title="Завантажити">Завантажити</a> 
+                        </div><div class="breadcrumbs">
+<a href="./">Бібліотека української літератури</a> <span>&gt;</span> <a href="index.php?let=29">Ш</a> <span>&gt;</span> <a href="author.php?id=1">Шевченко Тарас</a> <span>&gt;</span> Мені тринадцятий минало...  — повний текст твору</div><!-- /.breadcrumbs -->
+</div>                <div class="page-title ">
+                <h1>Мені тринадцятий минало...</h1><h2>Тарас Шевченко</h2>                </div><!-- /.page-title -->
+                <div class="social-box-item1" style="text-align: center;margin:15px;">
+                <div class="sharecontainer"><div class="sharer">Поширити</div><a class="tlg" onclick="Share.telegram('https://www.ukrlib.com.ua/books/printit.php?tid=752','Читати на УкрЛібі')" title="Надіслати"><span></span></a><a class="face" onclick="Share.facebookk('https://www.ukrlib.com.ua/books/printit.php?tid=752','','','')" title="Розповісти"><span></span></a><a class="twi" onclick="Share.twitter('https://www.ukrlib.com.ua/books/printit.php?tid=752','Мені тринадцятий минало... — Шевченко Тарас: ')" title="Цвірінькнути"><span></span></a></div><div class="socdivide hideonmob"><span></span></div><a class="support" href="https://www.patreon.com/ukrlib" style="color:#FF424D;" title="Підтримати УкрЛіб"><span></span>Підтримати УкрЛіб</a></div>                
+                
+                <div id='sticker'>
+                         <div class='sizercontainer'>
+                            <div class='sizermenuer'>
+                                <a href='#mobile-menu' class='sizermenuer'></a>
+                            </div>
+                            <div class='sizer'>
+                                <a href="./printitzip.php?tid=752" class="download" title="Завантажити"></a>
+                                <a href="javascript:void(0);" onclick="changeFontSize('content','1');" class="up" title="Збільшити текст"></a>
+                                <a href="javascript:void(0);" onclick="changeFontSize('content','-1');" class="down" title="Зменшити текст"></a>
+                            </div>  </div>
+                        <div class='clear'></div>
+                      </div>                                        
+                <article class="prose" id="content">
+                <div class="post-right-zagolovok">
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044380294269646"
+     crossorigin="anonymous"></script>
+<!-- ukrlib11-big bada boom -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-4044380294269646"
+     data-ad-slot="2028545750"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>                </div><!-- /.post-right-zagolovok -->
+                
+                <blockquote>N.N.</blockquote><br />
+Мені тринадцятий минало.<br />
+Я пас ягнята за селом.<br />
+Чи то так сонечко сіяло,<br />
+Чи так мені чого було?<br />
+Мені так любо, любо стало,<br />
+Неначе в бога. .......<br />
+Уже прокликали до паю,<br />
+А я собі у бур'яні<br />
+Молюся богу... І не знаю,<br />
+Чого маленькому мені<br />
+Тоді так приязно молилось,<br />
+Чого так весело було?<br />
+Господнє небо і село,<br />
+Ягня, здається, веселилось!<br />
+І сонце гріло, не пекло!<br />
+<br />
+Та недовго сонце гріло,<br />
+Недовго молилось...<br />
+Запекло, почервоніло<br />
+І рай запалило.<br />
+Мов прокинувся, дивлюся:<br />
+Село почорніло,<br />
+Боже небо голубеє —<br />
+І те помарніло.<br />
+Поглянув я на ягнята —<br />
+Не мої ягнята!<br />
+Обернувся я на хати —<br />
+Нема в мене хати!<br />
+Не дав мені бог нічого!..<br />
+І хлинули сльози,<br />
+Тяжкі сльози!.. А дівчина<br />
+При самій дорозі<br />
+Недалеко коло мене<br />
+Плоскінь вибирала<br />
+Та й почула, що я плачу,<br />
+Прийшла, привітала,<br />
+Утирала мої сльози<br />
+І поцілувала .....<br />
+<br />
+Неначе сонце засіяло,<br />
+Неначе все на світі стало<br />
+Моє... Лани, гаї, сади!<br />
+І ми, жартуючи, погнали<br />
+Чужі ягнята до води.<br />
+Бридня!.. а й досі, як згадаю,<br />
+То серце плаче та болить,<br />
+Чому господь не дав дожить<br />
+Малого віку у тім раю.<br />
+Умер би, орючи, на ниві,<br />
+Нічого б на світі не знав,<br />
+Не був би в світі юродивим,<br />
+Людей і бога не прокляв!..<br />
+<br />
+[Орська, кріпость 1847]                </article>
+                <div id="sticky-end"></div>
+                <div style='margin:0 auto; display:table;width: 100%; height: auto;text-align:center;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044380294269646"
+     crossorigin="anonymous"></script>
+<!-- Grand-content -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:580px;height:400px"
+     data-ad-client="ca-pub-4044380294269646"
+     data-ad-slot="7064871356"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="sub-pages-link"><a href="./printitzip.php?tid=752">Завантажити цей текст</a></div>                <div class="social-box-item">  
+                    <a onclick="Share.telegram('https://www.ukrlib.com.ua/books/printit.php?tid=752','Читати на УкрЛібі')" class="tlg"><span></span>Надіслати</a>     
+                    <a onclick="Share.facebookk('https://www.ukrlib.com.ua/books/printit.php?tid=752','','','')" class="face"><span></span>Розповісти</a>  
+                    <a onclick="Share.twitter('https://www.ukrlib.com.ua/books/printit.php?tid=752','Мені тринадцятий минало... — Шевченко Тарас: ')" class="tw"><span></span>Цвірінькнути</a>
+                </div><!-- /.social-box-item -->
+                                 <span class="soc-divider"></span>
+                 
+                        <div class="releated-box clearfix">
+<div class="rb-left">
+<h2>Інші твори цього автора:</h2>
+<ul>
+<li><a href="printit.php?tid=23533">В казематі</a></li>
+<li><a href="printit.php?tid=3994">За сонцем хмаронька пливе</a></li>
+<li><a href="printit.php?tid=23590">Лебедин</a></li>
+<li><a href="printit.php?tid=23583">Дурні та гордії ми люди</a></li>
+<li><a href="printit.php?tid=15370">Щоденник</a></li>
+<li><a href="author.php?id=1" class="rb-show-more">Ще 263 твори &rarr;</a></li>
+</ul>
+</div><!-- /.rb-left -->
+<div class="rb-right"><h2>Дивіться також:</h2>
+<ul><li><a href="/styslo/book.php?bookid=985">&quot;Мені тринадцятий минало...&quot; <span class='rmarker'>(скорочено)</span></a></li><li><a href="/tvory/book.php?bookid=985">&quot;Мені тринадцятий минало...&quot; <span class='rmarker'>(шкільні&nbsp;твори)</span></a></li><li><a href="/answers/book.php?bookid=985&active=11690#go11690">Який основний мотив поезії "Мені тринадцятий минало"?</a> <a href="/answers/book.php?bookid=985" class=""><span class='rmarker'>(та&nbsp;інші&nbsp;запитання)</span></a></li></ul>
+<ul class='readalsobio'><li><a href="/bio/author.php?id=1">Біографія Тараса Шевченка</a></li></ul>
+</div><!-- /.rb-right -->
+</div><!-- /.releated-box -->
+<!-- Composite Start -->
+<div id="M468478ScriptRootC938230"> </div> 
+<script  charset="utf-8" src="https://jsc.mgid.com/u/k/ukrlib.com.ua.938230.js" async></script>
+<!-- Composite End --><br />                <div class="comment-box">
+                </div><!-- /.comment-box -->            </div><!-- /.wrap -->
+        </div><!-- /.spanning -->
+    </div><!-- /.main -->
+        <footer>
+        <div class="wrap">
+            <div class="logo"><a href="/"></a></div> 
+            <ul>
+                <li><a href="/">Головна</a></li>
+                <li><a href="/mail.php">Контакти</a></li>
+                <li><a href="/ad/">Реклама</a></li>
+            </ul>
+            <div class="about-text">
+                УкрЛіб — скорочення від Ukrainian Library (українська бібліотека). Метою створення цього сайту було зробити українську літературу доступною для всіх, хто бажає її читати.
+            </div><!-- /.about-text -->
+            <div class="separator"></div>
+            <div class="copy">
+                УкрЛіб © 2000 — 2023, <a href="/mail.php">Євген Васильєв</a><br/>
+При використанні матеріалів сайту, посилання на УкрЛіб обов'язкове.<br/><br/>
+                                <div class="supertext2">
+                <div style="margin-top:0px;text-align:center;">
+                    <span class="sut" style="margin-top: 5px;margin-bottom:10px;display:block;"><a href="https://pufic.com.ua/kresla-meshki/" title="Кресла-мешки и бескаркасная мебель"><img src="/images/pufic.png" title="Кресла-мешки и бескаркасная мебель" alt="Pufic.com.ua" rel="dofollow" width="149" height="31" /></a></span>
+                </div>
+                <div style="margin-top:10px;margin-bottom:10px;text-align:center;">
+                                                                       
+                    
+                </div>
+                </div><!-- /.supertext2 -->
+		<div class="clear"></div><span class="adtext">
+УкрЛіб — читати повністю книги українською мовою
+</span><br/>
+
+Сторінку згенеровано за 0.019136 сек.
+            </div><!-- /.copy -->
+        </div><!-- /.wrap -->
+    </footer>
+
+    
+<script src="/js/1.1/sticky.js"></script>
+<link rel="stylesheet" href="/css/1.1/sticky.min.css"/>
+<a href="#" class="go-top-page"><span></span></a></body>
+</html>
